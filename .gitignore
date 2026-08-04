@@ -1,0 +1,14 @@
+# Virtual Environments
+vla_env/
+venv/
+__pycache__/
+
+# YOLO Models & Weights
+*.pt
+*.engine
+runs/
+
+# Video Outputs
+highlights/
+*.mp4
+*.png
